@@ -1,0 +1,13 @@
+C:\Users\rolan\source\repos\CameraTest\CameraTest\CameraTest\bin\Debug\netstandard2.0\CameraTest.deps.json
+C:\Users\rolan\source\repos\CameraTest\CameraTest\CameraTest\bin\Debug\netstandard2.0\CameraTest.dll
+C:\Users\rolan\source\repos\CameraTest\CameraTest\CameraTest\obj\Debug\netstandard2.0\CameraTest.csprojAssemblyReference.cache
+C:\Users\rolan\source\repos\CameraTest\CameraTest\CameraTest\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\rolan\source\repos\CameraTest\CameraTest\CameraTest\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\rolan\source\repos\CameraTest\CameraTest\CameraTest\obj\Debug\netstandard2.0\CameraTest.AssemblyInfoInputs.cache
+C:\Users\rolan\source\repos\CameraTest\CameraTest\CameraTest\obj\Debug\netstandard2.0\CameraTest.AssemblyInfo.cs
+C:\Users\rolan\source\repos\CameraTest\CameraTest\CameraTest\bin\Debug\netstandard2.0\ref\CameraTest.dll
+C:\Users\rolan\source\repos\CameraTest\CameraTest\CameraTest\bin\Debug\netstandard2.0\CameraTest.pdb
+C:\Users\rolan\source\repos\CameraTest\CameraTest\CameraTest\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\rolan\source\repos\CameraTest\CameraTest\CameraTest\obj\Debug\netstandard2.0\CameraTest.dll
+C:\Users\rolan\source\repos\CameraTest\CameraTest\CameraTest\obj\Debug\netstandard2.0\ref\CameraTest.dll
+C:\Users\rolan\source\repos\CameraTest\CameraTest\CameraTest\obj\Debug\netstandard2.0\CameraTest.pdb
